@@ -1,0 +1,16 @@
+site_name: OmegaT - The CAT power tools
+markdown_extensions:
+  - tables
+  - def_list
+  - footnotes
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+theme:
+  name: material
+nav:
+  - 'Index': 'index.md'
+  - 'English': 'the_cat_power_tools_en.md'
+  - 'Japanese': 'the_cat_power_tools_ja.md'
